@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Goldrey Massage - Pijat Panggilan Denpasar 24 Jam</title>
+  <title>Goldrey Massage - Pijat Panggilan Labuan bajo 24 Jam</title>
   <style>
     body {font-family: Arial, sans-serif; margin:0; background:#f5f5f5; color:#333}
     .header {background:#b8860b; color:white; padding:30px 20px; text-align:center}
